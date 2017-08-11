@@ -1,0 +1,1 @@
+index_good.html比较好用；第二个upload_img_mobile.html不好用；但是这2个都不支持IE；在IE打不开。
